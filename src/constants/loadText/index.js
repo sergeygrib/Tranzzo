@@ -1,0 +1,5 @@
+export const TEXT_LOADING = 'TEXT_LOADING'
+export const TEXT_SUCCESS = 'TEXT_SUCCESS'
+export const TEXT_DELETE = 'TEXT_DELETE'
+export const TEXT_CHANGED = 'TEXT_CHANGED'
+export const TEXT_FAILURE = 'TEXT_FAILURE'
